@@ -5,24 +5,24 @@
 \select@language {magyar} \contentsline {subsection}{\numberline {1.4}Egy\IeC {\'e}b k\IeC {\'a}r}{5}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.5}Szem\IeC {\'e}lyzet adatai}{5}% 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.1}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z parancsnoka}{5}% 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.2}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z adatai}{6}% 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.3}L\IeC {\'e}gialkalmass\IeC {\'a}gi bizony\IeC {\'\i }tv\IeC {\'a}ny \IeC {\'e}rv\IeC {\'e}nyess\IeC {\'e}ge}{6}% 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.2}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z adatai}{5}% 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.3}L\IeC {\'e}gialkalmass\IeC {\'a}gi bizony\IeC {\'\i }tv\IeC {\'a}ny \IeC {\'e}rv\IeC {\'e}nyess\IeC {\'e}ge}{5}% 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.4}\IeC {\'A}ltal\IeC {\'a}nos adatok}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.6}Meteorol\IeC {\'o}gia adatok}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.7}Navig\IeC {\'a}ci\IeC {\'o}s berendez\IeC {\'e}sek}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.8}\IeC {\"O}sszek\IeC {\"o}ttet\IeC {\'e}s}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.9}Rep\IeC {\"u}l\IeC {\H o}t\IeC {\'e}ri adatok}{6}% 
-\select@language {magyar} \contentsline {subsection}{\numberline {1.10}L\IeC {\'e}gij\IeC {\'a}rm\IeC {\H u} adatr\IeC {\"o}gz\IeC {\'\i }t\IeC {\H o}}{6}% 
+\select@language {magyar} \contentsline {subsection}{\numberline {1.10}L\IeC {\'e}gij\IeC {\'a}rm\IeC {\H u} adatr\IeC {\"o}gz\IeC {\'\i }t\IeC {\H o}}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.11}Rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z s\IeC {\'e}r\IeC {\"u}l\IeC {\'e}s\IeC {\'e}re vonatkoz\IeC {\'o} adatok}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.12}Orvosi \IeC {\'e}s igazs\IeC {\'a}g\IeC {\"u}gyi-orvosszak\IeC {\'e}rt\IeC {\H o}i vizsg\IeC {\'a}latok adatai}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.13}T\IeC {\H u}z}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.14}T\IeC {\'u}l\IeC {\'e}l\IeC {\'e}s lehet\IeC {\H o}s\IeC {\'e}ge}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.15}Pr\IeC {\'o}b\IeC {\'a}k \IeC {\'e}s k\IeC {\'\i }s\IeC {\'e}rletek}{7}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.16}\IeC {\'E}rintett szervezetek jellemz\IeC {\'e}se}{7}% 
-\select@language {magyar} \contentsline {subsection}{\numberline {1.17}Kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o} adatok}{7}% 
-\select@language {magyar} \contentsline {subsection}{\numberline {1.18}Hasznos \IeC {\'e}s hat\IeC {\'e}kony kivizsg\IeC {\'a}l\IeC {\'a}si m\IeC {\'o}dszerek}{7}% 
-\select@language {magyar} \contentsline {section}{\numberline {2}Elemz\IeC {\'e}s}{7}% 
+\select@language {magyar} \contentsline {subsection}{\numberline {1.17}Kieg\IeC {\'e}sz\IeC {\'\i }t\IeC {\H o} adatok}{8}% 
+\select@language {magyar} \contentsline {subsection}{\numberline {1.18}Hasznos \IeC {\'e}s hat\IeC {\'e}kony kivizsg\IeC {\'a}l\IeC {\'a}si m\IeC {\'o}dszerek}{8}% 
+\select@language {magyar} \contentsline {section}{\numberline {2}Elemz\IeC {\'e}s}{8}% 
 \select@language {magyar} \contentsline {section}{\numberline {3}K\IeC {\"o}vetkeztet\IeC {\'e}sek}{8}% 
-\select@language {magyar} \contentsline {subsection}{\numberline {3.1}A rep\IeC {\"u}l\IeC {\H o} esem\IeC {\'e}ny bek\IeC {\"o}vetkez\IeC {\'e}s\IeC {\'e}vel k\IeC {\"o}zvetlen \IeC {\"o}sszef\IeC {\"u}gg\IeC {\'e}sbe hozhat\IeC {\'o} t\IeC {\'e}nybeli meg\IeC {\'a}llap\IeC {\'\i }t\IeC {\'a}sok}{8}% 
+\select@language {magyar} \contentsline {subsection}{\numberline {3.1}A rep\IeC {\"u}l\IeC {\H o}esem\IeC {\'e}ny bek\IeC {\"o}vetkez\IeC {\'e}s\IeC {\'e}vel k\IeC {\"o}zvetlen \IeC {\"o}sszef\IeC {\"u}gg\IeC {\'e}sbe hozhat\IeC {\'o} t\IeC {\'e}nybeli meg\IeC {\'a}llap\IeC {\'\i }t\IeC {\'a}sok}{8}% 
 \select@language {magyar} \contentsline {section}{\numberline {4}Biztons\IeC {\'a}gi aj\IeC {\'a}nl\IeC {\'a}s}{8}% 
 \select@language {magyar} \contentsline {section}{\numberline {5}Mell\IeC {\'e}kletek}{9}% 
