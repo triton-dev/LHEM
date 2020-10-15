@@ -5,8 +5,8 @@
 \select@language {magyar} \contentsline {subsection}{\numberline {1.4}Egy\IeC {\'e}b k\IeC {\'a}r}{5}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.5}Szem\IeC {\'e}lyzet adatai}{5}% 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.1}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z parancsnoka}{5}% 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.2}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z adatai}{5}% 
-\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.3}L\IeC {\'e}gialkalmass\IeC {\'a}gi bizony\IeC {\'\i }tv\IeC {\'a}ny \IeC {\'e}rv\IeC {\'e}nyess\IeC {\'e}ge}{5}% 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.2}A rep\IeC {\"u}l\IeC {\H o}eszk\IeC {\"o}z adatai}{6}% 
+\select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.3}L\IeC {\'e}gialkalmass\IeC {\'a}gi bizony\IeC {\'\i }tv\IeC {\'a}ny \IeC {\'e}rv\IeC {\'e}nyess\IeC {\'e}ge}{6}% 
 \select@language {magyar} \contentsline {subsubsection}{\numberline {1.5.4}\IeC {\'A}ltal\IeC {\'a}nos adatok}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.6}Meteorol\IeC {\'o}gia adatok}{6}% 
 \select@language {magyar} \contentsline {subsection}{\numberline {1.7}Navig\IeC {\'a}ci\IeC {\'o}s berendez\IeC {\'e}sek}{6}% 
